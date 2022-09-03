@@ -1,0 +1,4 @@
+coordinator:2022/08/27 22:23:55.040453 coordinator.go:253: making coordinator
+coordinator:2022/08/27 22:23:55.040965 coordinator.go:63: init map task queue
+coordinator:2022/08/27 22:23:55.041392 coordinator.go:73: 8 map task created Done 
+coordinator:2022/08/27 22:24:00.470490 server.go:423: rpc: gob error encoding body: gob: type mr.TaskInfo has no exported fields

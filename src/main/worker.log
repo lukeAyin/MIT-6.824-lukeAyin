@@ -1,0 +1,3 @@
+worker6030:2022/08/27 22:24:00 worker.go:56: worker ready to call a task with coordinator
+worker6030:2022/08/27 22:24:00 worker.go:60: call for a map task
+worker6030:2022/08/27 22:24:00 worker.go:85: map task 0 inputFileList lenght less 1
