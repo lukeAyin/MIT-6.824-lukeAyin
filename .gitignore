@@ -2,3 +2,5 @@ pkg/
 api.key
 .api.key.trimmed
 *-handin.tar.gz
+*.xml
+.idea/MIT-6.824-lukeAyin.iml
